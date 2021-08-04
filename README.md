@@ -10,7 +10,7 @@ Script to send emails with Python.
 
 In the case that you are sending emails through __gmail__, you must turn [this setting](https://myaccount.google.com/lesssecureapps) on.  
 For more info visit this:  
-- [Less Secured Apps](https://support.google.com/accounts/answer/6010255)
+- [Less Secure Apps](https://support.google.com/accounts/answer/6010255)
 - [Third party sites & apps](https://support.google.com/accounts/answer/3466521)
 
 I recommend turning the feature back __OFF__ once done using this script, since it is an extra security feature for your gmail account.
