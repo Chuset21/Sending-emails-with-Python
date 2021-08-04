@@ -4,7 +4,7 @@ Script to send emails with Python.
 ## How To Use  
 #### Command Line Arguments to be given:
 1. Email address that will receive the email.
-2. Name of the recipient
+2. Name of the recipient.
 3. Email address that will send the email.
 4. Password to match the sender email address.  
 
